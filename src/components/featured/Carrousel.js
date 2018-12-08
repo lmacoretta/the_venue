@@ -13,7 +13,7 @@ const Carrousel = () => {
       autoplay: true,
       slidesToShow: 1,
       slidesToScroll: 1,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 3000,
       pauseOnHover: true
    }
 
